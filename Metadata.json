@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 2123,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/trigger-azure-policy-evaluation-in-powershell/master/Start-AzurePolicyEvaluation.ps1",
+    "DownloadCount": 522,
+    "Id": "Trigger-Azure-Policy-c31b2b08",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 205,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2020-3-11T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Trigger Azure Policy Evaluation in PowerShellhttps://docs.microsoft.com/en-us/rest/api/policy-insights/policystates/triggersubscriptionevaluationPolicy States - Trigger Subscription Evaluation (Azure Policy Insights)Triggers a policy evaluation scan for all the reso",
+    "Title": "Trigger Azure Policy Evaluation in PowerShell",
+    "UpdatedDate": "2020-3-16T00:00:00",
+    "Url": "https://github.com/azureautomation/trigger-azure-policy-evaluation-in-powershell",
+    "UserTags": "Azure Policy"
+}
